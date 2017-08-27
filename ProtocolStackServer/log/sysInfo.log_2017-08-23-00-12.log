@@ -1,0 +1,8 @@
+2017-08-23 00:12:24Failed to find a usable hardware address from the network interfaces; using random bytes: f9:3e:ca:41:1c:e5:32:ec
+  io.netty.channel.DefaultChannelId.defaultMachineId(DefaultChannelId.java:203)
+2017-08-23 00:12:51com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 00:12:51com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 00:12:52com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)

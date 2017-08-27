@@ -1,0 +1,2 @@
+2017-08-23 00:52:17Failed to find a usable hardware address from the network interfaces; using random bytes: 23:87:72:38:14:59:97:76
+  io.netty.channel.DefaultChannelId.defaultMachineId(DefaultChannelId.java:203)

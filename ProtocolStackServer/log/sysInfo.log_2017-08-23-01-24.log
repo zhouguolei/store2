@@ -1,0 +1,6 @@
+2017-08-23 01:24:17com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 01:24:17com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 01:24:17com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'device' at row 1insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)

@@ -1,0 +1,6 @@
+2017-08-23 01:19:24com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry '0285' for key 'PRIMARY'insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 01:19:24com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry '0285' for key 'PRIMARY'insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
+2017-08-23 01:19:25com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry '0285' for key 'PRIMARY'insertMysql
+  com.yijiagou.handler.AddDeviceHandler.insertMysql(AddDeviceHandler.java:94)
